@@ -1,0 +1,9 @@
+[package]
+name = "Rusterol"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+promptly = "0.3.1"
+url = "2.5.4"
+anyhow = "1.0.95"
